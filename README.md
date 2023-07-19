@@ -1,25 +1,25 @@
 <h1 align="center">
-BlackCap Injection v6.5
+BuckledPepper Injection v6.5
 </h1>
 
 ![](https://raw.githubusercontent.com/KSCHdsc/BlackCap-Assets/main/blackcap%20-%20injection.jpg)
 
 
 <h1 align="center">
-  BlackCap Injection Work With BlackCap-Grabber (REWRITED BY NotFubukIl)
+  BuckledPepper Injection Work With BuckledPepper-Grabber
 </h1>
 
 
 
 **NOTE:** 
-- BlackCap was made for educational purposes, there for all consequences caused by your actions are **your** responsibility and accountability.
+- BuckledPepper was made for educational purposes, there for all consequences caused by your actions are **your** responsibility and accountability.
 - You got an error? you've find a bug?? join the discord or create an issue!
 - variable "apiurl" is used to create a futur [Glitch](https://glitch.com) web pannel without any webhook in the future :)
 ---
 
 ## <a id="content"></a>🌐 〢 Content
 
-- [🌌・Discord](https://discord.gg/blackcap)
+- [🌌・Discord](https://discord.gg/TtPWGmBasN)
 - [🔰・Features](#features)
 - [📝・Changelog](#changelog)
 - [🕵️‍♂️・Credits](#Forked)
@@ -28,7 +28,6 @@ BlackCap Injection v6.5
 
 
 ## <a id="features"></a>🔰 〢 Features
-![](https://raw.githubusercontent.com/KSCHdsc/BlackCap-Assets/main/image.png)
 ```diff
 > Injection:
 
@@ -99,17 +98,6 @@ V7: 2023-21-02
 
 ### Author
 - [Red60](https://github.com/Red60sapphire)
-
-### Contributors (CapingTeam)
-- Xenis
-- Nono1337
-- Irax212
-- Shamroks
-
-### <a id="Forked"></a>🕵️‍♂️ 〢 Forked From:
-- Hazard Grabber injection
-- PirateStealer injection
-
 
 ### <a id="Term"></a>💼 〢 Term of usage
 
